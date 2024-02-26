@@ -13,7 +13,7 @@ meta-title: About me
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
- (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program)
+ (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program.)
 </p>
 
 <!-- <p class="about-text">
