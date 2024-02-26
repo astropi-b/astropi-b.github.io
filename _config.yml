@@ -46,21 +46,12 @@ avatar: "/img/prof3.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ashwin Samudre
-  email: "ashwin.samudre[at]gmail.com"
-  facebook: ashwin.samudre  # eg. daattali
-  github: kiryteo    # eg. daattali
-  twitter: samudre_ashwin   # eg. daattali
-  #reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  name: Anumanchi Agastya Sai Ram Likhit
+  email: "astropi.2003[at]gmail.com"
+  github: astropi-b
   linkedin: ashwin-samudre-370273107  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  researchgate: agastya
+  telephone: +91 7569758818
 
 # Select which links to show in the footer
 footer-links-active:
@@ -78,14 +69,13 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
+  researchgate: true
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
   linkedin: true
+  
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
