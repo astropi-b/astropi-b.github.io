@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me 
+title: Agastya
 ---
 
 <div id="aboutme-section">
