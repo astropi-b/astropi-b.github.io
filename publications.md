@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=Btu380oAAAAJ&hl=en).
+Papers can also be found on [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=hyYMTlcAAAAJ).
 
 ## 2022
 
