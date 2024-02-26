@@ -7,13 +7,17 @@ Papers can also be found on [Google Scholar](https://scholar.google.co.in/citati
 
 ## 2024
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE PAPER</b></span>
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#ff9900ff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE PAPER</b></span>
 <b>Anumanchi Agastya Sai Ram Likhit</b>, Divyansh Tripathi, Akshay Agarwal. <b>*A Novel Sector-Based Algorithm for an Optimized Star-Galaxy Classification*</b>, Tiny Paper @ The International Conference on Learning Representations (ICLR) 2024. (<a target="_blank" href="">Paper</a>)
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Ashwin Samudre</b>, Maxime Darrin, Maxime Sahun, Scott Atwell, Catherine Badens, Anne Charrier, Emmanuèle Helfer, Annie Viallat, Vincent Cohen-Addad, Sophie Giffard-Roisin. <b>*Classification of blood cells dynamics with convolutional and recurrent neural networks: a sickle cell disease case study*</b>, Scientific Reports. (<a target="_blank" href="https://www.nature.com/articles/s41598-023-27718-w">Paper</a>)
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE POSTER</b></span>
+<b>Ashwin Samudre</b>, Linus Magnusson, Pedro Maciel. <b>*Exploration of Deep Learning techniques to detect and track Tropical Cyclones*</b>, Climate Informatics 2020. (<a target="_blank" href="https://www.researchgate.net/publication/344445846_Exploration_of_Deep_Learning_techniques_to_detect_and_track_Tropical_Cyclones">Extended Abstract</a>)
 
-## 2021
+## 2023
+
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE POSTER</b></span>
+<b>Ashwin Samudre</b>, Linus Magnusson, Pedro Maciel. <b>*An Innovative Web Tool for Remote Data Acquisition and Analysis : Customised for SKA Test LPDA Setups at Gauribidanur Radio Observatory*</b>, 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023). (<a target="_blank" href="https://www.researchgate.net/publication/376265776_An_Innovative_Web_Tool_for_Remote_Data_Acquisition_and_Analysis_Customised_for_SKA_Test_LPDA_Setups_at_Gauribidanur_Radio_Observatory">Extended Abstract</a>)
+
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
 <b>Ashwin Samudre</b>, Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Data-Efficient Classification of Radio Galaxies*</b>, Monthly Notices of Royal Astronomical Society (<a target="_blank" href="https://doi.org/10.1093/mnras/stab3144">Paper</a>)
