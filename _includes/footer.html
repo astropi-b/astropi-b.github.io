@@ -83,6 +83,29 @@
             </a>
           </li>
           {% endif %}
+		<!-- ResearchGate Icon -->
+          	{% if site.author.researchgate and site.footer-links-active.researchgate %}
+          <li>
+            <a href="{{ site.author.researchgate }}" title="ResearchGate">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-researchgate fa-stack-1x fa-inverse"></i> <!-- Ensure you have an icon for ResearchGate -->
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          
+          <!-- ORCID Icon -->
+          	{% if site.author.orcid and site.footer-links-active.orcid %}
+          <li>
+            <a href="{{ site.author.orcid }}" title="ORCID">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-orcid fa-stack-1x fa-inverse"></i> <!-- Ensure you have an icon for ORCID -->
+              </span>
+            </a>
+          </li>
+          {% endif %}
 		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
           <li>
             <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
@@ -153,6 +176,7 @@
 			</a>
 		  </li>
           {% endif %}
+		
         </ul>
         <p class="copyright text-muted">
 		  {{ site.author.name }}
