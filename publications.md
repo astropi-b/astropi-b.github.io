@@ -16,7 +16,7 @@ Papers can also be found on [Google Scholar](https://scholar.google.co.in/citati
 ## 2023
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE POSTER</b></span>
-<b>Ashwin Samudre</b>, Linus Magnusson, Pedro Maciel. <b>*An Innovative Web Tool for Remote Data Acquisition and Analysis : Customised for SKA Test LPDA Setups at Gauribidanur Radio Observatory*</b>, 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023). (<a target="_blank" href="https://www.researchgate.net/publication/376265776_An_Innovative_Web_Tool_for_Remote_Data_Acquisition_and_Analysis_Customised_for_SKA_Test_LPDA_Setups_at_Gauribidanur_Radio_Observatory">Extended Abstract</a>)
+<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek. <b>*An Innovative Web Tool for Remote Data Acquisition and Analysis : Customised for SKA Test LPDA Setups at Gauribidanur Radio Observatory*</b>, 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023). (<a target="_blank" href="https://www.researchgate.net/publication/376265776_An_Innovative_Web_Tool_for_Remote_Data_Acquisition_and_Analysis_Customised_for_SKA_Test_LPDA_Setups_at_Gauribidanur_Radio_Observatory">Extended Abstract</a>)
 
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
