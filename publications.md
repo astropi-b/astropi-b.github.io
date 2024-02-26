@@ -5,9 +5,9 @@ title: Publications
 
 Papers can also be found on [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=hyYMTlcAAAAJ).
 
-## 2023
+## 2024
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>Conference PAPER</b></span>
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE PAPER</b></span>
 <b>Anumanchi Agastya Sai Ram Likhit</b>, Divyansh Tripathi, Akshay Agarwal. <b>*A Novel Sector-Based Algorithm for an Optimized Star-Galaxy Classification*</b>, Tiny Paper @ The International Conference on Learning Representations (ICLR) 2024. (<a target="_blank" href="">Paper</a>)
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
