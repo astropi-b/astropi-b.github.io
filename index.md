@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Anumanchi Agastya Sai Ram Likhit  
-meta-title: About me
+title: Anumanchi Agastya Sai Ram Likhit 
 ---
 
 <div id="aboutme-section">
