@@ -83,13 +83,12 @@
             </a>
           </li>
           {% endif %}
-		<!-- ResearchGate Icon -->
-          	{% if site.author.researchgate and site.footer-links-active.researchgate %}
+		 {% if site.author.researchgate and site.footer-links-active.researchgate %}
           <li>
             <a href="{{ site.author.researchgate }}" title="ResearchGate">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-researchgate fa-stack-1x fa-inverse"></i> <!-- Ensure you have an icon for ResearchGate -->
+                <i class="fa-brands fa-researchgate fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
@@ -101,7 +100,7 @@
             <a href="{{ site.author.orcid }}" title="ORCID">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-orcid fa-stack-1x fa-inverse"></i> <!-- Ensure you have an icon for ORCID -->
+                <i class="fa-brands fa-orcid fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
