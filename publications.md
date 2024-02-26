@@ -5,10 +5,10 @@ title: Publications
 
 Papers can also be found on [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=hyYMTlcAAAAJ).
 
-## 2022
+## 2023
 
-<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>WORKSHOP PAPER</b></span>
-Jason Poh, <b>Ashwin Samudre</b>, Aleksandra Ciprijanovic, Brian Nord, Gourav Khullar, Dimitrios Tanoglidis, Joshua A. Frieman. <b>*Strong Lensing Parameter Estimation on Ground-Based Imaging Data Using Simulation-Based Inference*</b>, NeurIPS 2022 Workshop on Machine Learning and the Physical Sciences. (<a target="_blank" href="https://arxiv.org/abs/2211.05836">Paper</a>)
+<span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>Conference PAPER</b></span>
+<b>Anumanchi Agastya Sai Ram Likhit</b>, Divyansh Tripathi, Akshay Agarwal. <b>*A Novel Sector-Based Algorithm for an Optimized Star-Galaxy Classification*</b>, Tiny Paper @ The International Conference on Learning Representations (ICLR) 2024. (<a target="_blank" href="">Paper</a>)
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
 <b>Ashwin Samudre</b>, Maxime Darrin, Maxime Sahun, Scott Atwell, Catherine Badens, Anne Charrier, Emmanuèle Helfer, Annie Viallat, Vincent Cohen-Addad, Sophie Giffard-Roisin. <b>*Classification of blood cells dynamics with convolutional and recurrent neural networks: a sickle cell disease case study*</b>, Scientific Reports. (<a target="_blank" href="https://www.nature.com/articles/s41598-023-27718-w">Paper</a>)
