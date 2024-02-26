@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anumanchi Agastya Sai Ram Likhit
+title: Agastya  
 meta-title: About me
 ---
 
