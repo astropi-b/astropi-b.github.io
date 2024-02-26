@@ -50,8 +50,10 @@ author:
   email: "astropi.2003[at]gmail.com"
   github: astropi-b
   linkedin: anumanchi-agastya-sai-ram-likhit
-  researchgate: agastya
+  researchgate: "https://www.researchgate.net/profile/Anumanchi-Agastya-Sai-Ram-Likhit"
+  orcid: "https://orcid.org/0000-0002-5127-2650"
   telephone: +91 7569758818
+
 
 # Select which links to show in the footer
 footer-links-active:
@@ -71,10 +73,12 @@ footer-links-active:
   spotify: false
   telephone: true
   researchgate: true
+  orcid: true
 
-# Select which share links to show in posts
 share-links-active:
   linkedin: true
+  researchgate: true
+  orcid: true
   
 
 # --- Misc --- #
