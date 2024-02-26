@@ -8,6 +8,22 @@
 
 {% if any-share-links %}
 <section id = "social-share-section">
+  <!--- Share on ResearchGate -->
+  {% if site.share-links-active.researchgate %}
+    <!-- Adjust the link as necessary for your use case -->
+    <a href="https://www.researchgate.net/profile/Your-Profile"
+      class="btn btn-social-icon btn-researchgate" title="Share on ResearchGate">
+      <span class="fa fa-fw fa-researchgate" aria-hidden="true"></span>
+    </a>
+  {% endif %}
+  
+  <!--- Share on ORCID -->
+  {% if site.share-links-active.orcid %}
+    <a href="https://orcid.org/your-orcid-id"
+      class="btn btn-social-icon btn-orcid" title="Share on ORCID">
+      <span class="fa fa-fw fa-orcid" aria-hidden="true"></span>
+    </a>
+  {% endif %}
 
   <!--- Share on Twitter -->
   {% if site.share-links-active.twitter %}
