@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: A.A.S.LIKHIT
+title: Anumanchi Agastya Sai Ram Likhit
 
 # Short description of your site
 # description: Turning imagination into reality
@@ -46,7 +46,7 @@ avatar: "/img/avtar.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anumanchi Agastya Sai Ram Likhit
+  name: 
   email: "astropi.2003[at]gmail.com"
   github: astropi-b
   linkedin: anumanchi-agastya-sai-ram-likhit
