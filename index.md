@@ -12,7 +12,7 @@ title: Anumanchi Agastya Sai Ram Likhit
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
- (........C <a target="_blank" href="https:">2020</a>, <a target="_blank" href="">2021</a> program.)
+ (..Updating <a target="_blank" href="https:">2020</a>, <a target="_blank" href="">2021</a> program.)
 </p>
 
 <!-- <p class="about-text">
