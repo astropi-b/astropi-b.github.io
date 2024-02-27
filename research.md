@@ -47,7 +47,7 @@ Here are some of the research projects I'm working on:
 
 <div class="research-item">
   <img class="research-image" src="img/avatar-icon.png" alt="Project Two">
-  <h3><a href="/research/project-two">Project Two</a></h3>
+  <h3><a href="_posts/2018-9-10-Akademy-Experience.md">Project Two</a></h3>
   <p>Brief description of Project Two.</p>
 </div>
 
