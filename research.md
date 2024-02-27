@@ -40,7 +40,7 @@ permalink: /research/
 Here are some of the research projects I'm working on:
 
 <div class="research-item">
-  <img class="research-image" src="/path/to/image1.jpg" alt="Project One">
+  <img class="research-image" src="img/avatar-icon.png" alt="Project One">
   <h3><a href="research/one.md">Project One</a></h3>
   <p>Brief description of Project One.</p>
 </div>
