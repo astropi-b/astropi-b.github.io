@@ -42,7 +42,7 @@ Here are some of the research projects I'm working on:
 <div class="research-item">
   <img class="research-image" src="img/avatar-icon.png" alt="Project One">
   <h3><a href="research/one.md">Project One</a></h3>
-  <p>Brief description of Project One.</p>
+  <p>Brief description of Project oneee.</p>
 </div>
 
 <div class="research-item">
