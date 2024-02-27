@@ -40,21 +40,25 @@ permalink: /research/
 Here are some of the research projects I'm working on:
 
 <div class="research-item">
-  <img class="research-image" src="img/avatar-icon.png" alt="Project One">
-  <h3><a href="research/one.md">Project One</a></h3>
+  <img class="research-image" src="/img/avatar-icon.png" alt="Project One">
+  <!-- Assuming the permalink for one.md is set to /research/one in its YAML front matter -->
+  <h3><a href="/research/one">Project One</a></h3>
   <p>Brief description of Project oneee.</p>
 </div>
 
+<!-- For a blog post, use the post's URL structure which might look like /year/month/day/title -->
 <div class="research-item">
-  <img class="research-image" src="img/avatar-icon.png" alt="Project Two">
-  <h3><a href="_posts/2018-9-10-Akademy-Experience.md">Project Two</a></h3>
+  <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+  <h3><a href="/2018/09/10/Akademy-Experience">Project Two</a></h3>
   <p>Brief description of Project Two.</p>
 </div>
 
+<!-- Correctly linking to another page in the research directory -->
 <div class="research-item">
-  <img class="research-image" src="img/avatar-icon.png" alt="Project Three">
+  <img class="research-image" src="/img/avatar-icon.png" alt="Project Three">
   <h3><a href="/research/project-three">Project Three</a></h3>
   <p>Brief description of Project Three.</p>
 </div>
+
 
 Please click on the project titles to learn more about each project.
