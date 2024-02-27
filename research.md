@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Researchs
+title: Research
 permalink: /research/
 ---
 
@@ -46,13 +46,13 @@ Here are some of the research projects I'm working on:
 </div>
 
 <div class="research-item">
-  <img class="research-image" src="/path/to/image2.jpg" alt="Project Two">
+  <img class="research-image" src="img/avatar-icon.png" alt="Project Two">
   <h3><a href="/research/project-two">Project Two</a></h3>
   <p>Brief description of Project Two.</p>
 </div>
 
 <div class="research-item">
-  <img class="research-image" src="/path/to/image3.jpg" alt="Project Three">
+  <img class="research-image" src="img/avatar-icon.png" alt="Project Three">
   <h3><a href="/research/project-three">Project Three</a></h3>
   <p>Brief description of Project Three.</p>
 </div>
