@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kharagpur Winter of Code, 2017
+title: ASTRONOMICAL OBSERVATION WEB TOOL FOR LPDA ARRAY AT GAURIBIDANUR RADIO OBSERVATORY
 subtitle: Program Report
 tags: ['IIT-KGP','Kharagpur Winter of Code']
 permalink: /research/webtool/
