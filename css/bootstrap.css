@@ -1254,15 +1254,15 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 30px;
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 26px;
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 22px;
 }
 h4,
 .h4 {
@@ -4864,12 +4864,12 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding: 48px 0;
+    padding: 28px 0;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
