@@ -41,9 +41,8 @@ Here are some of the research projects I'm working on:
 
 <div class="research-item">
   <img class="research-image" src="/img/avatar-icon.png" alt="Project One">
-  <!-- Assuming the permalink for one.md is set to /research/one in its YAML front matter -->
-  <h3><a href=/research/webtool">Project One</a></h3>
-  <p>Brief description of Project oneee.</p>
+  <h3><a href="/research/webtool/">Project One</a></h3>
+  <p>Brief description of Project onee.</p>
 </div>
 
 <!-- For a blog post, use the post's URL structure which might look like /year/month/day/title -->
