@@ -72,12 +72,12 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: true
-  researchgate: false
+  researchgate: true
   orcid: false
 
 share-links-active:
   linkedin: true
-  researchgate: false
+  researchgate: true
   orcid: false
   
 
