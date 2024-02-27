@@ -8,6 +8,8 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
+  margin-left: 20px; /* Adjust the left margin */
+  margin-right: 20px; /* Adjust the right margin */
 }
 p {
   line-height: 1.5;
