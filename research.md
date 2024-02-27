@@ -67,6 +67,16 @@ permalink: /research/
     <h3><a href="/research/project-three">Project Three</a></h3>
     <p>Brief description of Project Three.</p>
   </div>
+  <div class="research-item">
+    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+    <h3><a href="/research/lpdasimulations/">Project Four</a></h3>
+    <p>Brief description of Project Four.</p>
+  </div>
+  <div class="research-item">
+    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+    <h3><a href="/research/lpdasimulations/">Project Five</a></h3>
+    <p>Brief description of Project Five.</p>
+  </div>
 </div>
 
  
