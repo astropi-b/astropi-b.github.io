@@ -12,7 +12,7 @@ title: Anumanchi Agastya Sai Ram Likhit
 
 <p class="about-text">
 <!-- <span class="fa fa-code about-icon"></span> -->
- (collaboration with ECMWF as part of the ESoWC <a target="_blank" href="https://github.com/esowc/challenges_2020">2020</a>, <a target="_blank" href="https://github.com/esowc/challenges_2021">2021</a> program.)
+ (........C <a target="_blank" href="https:">2020</a>, <a target="_blank" href="">2021</a> program.)
 </p>
 
 <!-- <p class="about-text">
