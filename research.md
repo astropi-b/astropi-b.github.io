@@ -37,7 +37,7 @@ permalink: /research/
 
 ### My Research Areas
 
-Here are some of the research projects I'm working on:
+Here are some of the research projects I am involved:
 
 <div class="research-item">
   <img class="research-image" src="/img/avatar-icon.png" alt="Project One">
