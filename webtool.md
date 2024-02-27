@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Kharagpur Winter of Code, 2017
 subtitle: Program Report
 tags: ['IIT-KGP','Kharagpur Winter of Code']
