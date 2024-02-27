@@ -3,6 +3,7 @@ layout: post
 title: Kharagpur Winter of Code, 2017
 subtitle: Program Report
 tags: ['IIT-KGP','Kharagpur Winter of Code']
+permalink: /research/one/
 ---
 
 KWOC is the 5-week long online program for the students who are new to
