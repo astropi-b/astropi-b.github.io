@@ -48,7 +48,7 @@ Here are some of the research projects I'm working on:
 <!-- For a blog post, use the post's URL structure which might look like /year/month/day/title -->
 <div class="research-item">
   <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
-  <h3><a href="/2018/09/10/Akademy-Experience">Project Two</a></h3>
+  <h3><a href="/research/lpdasimulations/">Project Two</a></h3>
   <p>Brief description of Project Two.</p>
 </div>
 
