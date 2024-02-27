@@ -3,6 +3,7 @@ layout: post
 title: Akademy Experience 2018
 subtitle: 
 tags: ['KDE','Akademy','Travel']
+permalink: /research/lpdasimulations/
 ---
 
 ### Akademy Experience
