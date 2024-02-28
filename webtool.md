@@ -13,9 +13,10 @@ contributions to the projects. This also prepares students for other open source
 programs like Google Summer of Code.
 
 <table style="width: 100%;">
-<tr>
+<tr>![r1_1](https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444)
+
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="r1_1.png" alt="LPDA Array" style="width: 100%;"> <!-- Makes the image fill the cell -->
+<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444" alt="Image description" style="width: 100%;">
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
 This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
