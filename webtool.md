@@ -12,7 +12,7 @@ GLOT is Gauribidanur radio observatory Log periodic dipole antenna array Observa
 <tr>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444" alt="LPDA Array" style="width: 100%;">
+<img src="https://github.com/astropi-b/astropi-b.github.io/img/r1_1.png" alt="LPDA Array" style="width: 100%;">
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
 This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
@@ -30,7 +30,7 @@ This web tool enables remote observations using the featured setup, allowing for
 </td>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="(https://github.com/astropi-b/astropi-b.github.io/assets/78492090/ec7675df-b73b-4240-ac9e-f4f227982b7c" alt="Webtoolflow" style="width: 100%;">
+<img src="(https://github.com/astropi-b/astropi-b.github.io/img/r1_2.png" alt="Webtoolflow" style="width: 100%;">
 </td>
 
 
