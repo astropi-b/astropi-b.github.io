@@ -20,8 +20,6 @@ This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary s
 
 </tr>
 </table>
-![r1_2](https://github.com/astropi-b/astropi-b.github.io/assets/78492090/131e36d6-a4a8-48e3-97fe-72021740ed74)
-
 
 <table style="width: 100%;">
 <tr>
