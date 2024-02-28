@@ -38,6 +38,26 @@ This web tool enables remote observations using the featured setup, allowing for
 
 
 
+
+Featured below are the demonstration videos of our web tool in action. The first video highlights the tool's capability for conducting remote observations from the Raman Research Institute, located 90 km away from the Gauribidanur Radio Observatory. It also demonstrates the functionality to download collected data and perform minimal data processing. The second video showcases the updated version of the web tool, which now includes features for manual RFI masking and transit plotting, as exemplified through a solar transit observation.
+
+<table style="width: 100%;">
+<tr>
+<td style="width: 50%; text-align: center;"> <!-- Image 1 cell -->
+<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/e1e52533-297b-4744-b1f5-41eac8e80cee" alt="Video 1" style="width: 100%;">
+<br> <!-- Break line for caption -->
+<em>Caption for Image 1</em> <!-- Caption in italics and centered -->
+</td>
+<td style="width: 50%; text-align: center;"> <!-- Image 2 cell -->
+<img src="[/research/webtool/img/image2.png](https://github.com/astropi-b/astropi-b.github.io/assets/78492090/31b67e30-f72c-4b32-b0b0-3b8099260d59)" alt="Video 2" style="width: 100%;">
+<br> <!-- Break line for caption -->
+<em>Caption for Image 2</em> <!-- Caption in italics and centered -->
+</td>
+</tr>
+</table>
+
+
+
 **Getting started**
 
 I created my first pull request in the second week of november and was just
