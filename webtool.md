@@ -28,7 +28,7 @@ This web tool enables remote observations using the featured setup, allowing for
 </td>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="(https://github.com/astropi-b/astropi-b.github.io/img/r1_2.png" alt="Webtoolflow" style="width: 100%;">
+<img src="https://github.com/astropi-b/astropi-b.github.io/img/r1_2.png" alt="Webtoolflow" style="width: 100%;">
 </td>
 
 
