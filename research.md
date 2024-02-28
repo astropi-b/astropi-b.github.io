@@ -57,14 +57,14 @@ permalink: /research/
   </div>
 
   <div class="research-item">
-    <img class="research-image" src="/img/l2.png" alt="Project Two">
+    <img class="research-image" src="/img/l1.png" alt="Project Two">
     <h3><a href="/research/lpdasimulations/">Project Two</a></h3>
     <p>Brief description of Project Two.</p>
   </div>
 
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="Project Three">
-    <h3><a href="/research/project-three">Project Three</a></h3>
+    <h3><a href="/research/project-three">Optimizing Star Galaxy Classification Three</a></h3>
     <p>Brief description of Project Three.</p>
   </div>
   <div class="research-item">
