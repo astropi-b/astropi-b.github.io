@@ -12,6 +12,19 @@ helping students take the steps to get involved in open source and making
 contributions to the projects. This also prepares students for other open source
 programs like Google Summer of Code.
 
+<table>
+<tr>
+<td valign="middle"> <!-- Aligns the text vertically in the middle -->
+Your text goes here. You can write as much as you want here, and it will be aligned to the left and centered vertically relative to the image on the right.
+</td>
+<td>
+
+![Your Image Alt Text](URL-to-your-image.png)
+
+</td>
+</tr>
+</table>
+
 **Getting started**
 
 I created my first pull request in the second week of november and was just
