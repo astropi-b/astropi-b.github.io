@@ -13,7 +13,7 @@ contributions to the projects. This also prepares students for other open source
 programs like Google Summer of Code.
 
 <table style="width: 100%;">
-<tr>![r1_1](https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444)
+<tr>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
 <img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444" alt="Image description" style="width: 100%;">
