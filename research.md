@@ -58,7 +58,7 @@ permalink: /research/
 
   <div class="research-item">
     <img class="research-image" src="/img/l1.png" alt="Project Two">
-    <h3><a href="/research/lpdasimulations/">Project Two</a></h3>
+    <h3><a href="/research/lpdasimulations/">Establishment of L.P.D.A Array at G.R.O</a></h3>
     <p>Brief description of Project Two.</p>
   </div>
 
