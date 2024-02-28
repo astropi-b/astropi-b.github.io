@@ -51,7 +51,7 @@ permalink: /research/
 <div class="research-grid">
   <!-- Research items -->
   <div class="research-item">
-    <img class="research-image" src="/img/avatar-icon.png" alt="Project One">
+    <img class="research-image" src="/img/avatar-icon.png" alt="G.L.O.T">
     <h3><a href="/research/webtool/">Project One</a></h3>
     <p>Brief description of Project one.</p>
   </div>
