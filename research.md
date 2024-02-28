@@ -52,7 +52,7 @@ permalink: /research/
   <!-- Research items -->
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="G.L.O.T">
-    <h3><a href="/research/webtool/">Project One</a></h3>
+    <h3><a href="/research/webtool/">G.L.O.T</a></h3>
     <p>Brief description of Project one.</p>
   </div>
 
