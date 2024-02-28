@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WEB TOOL FOR LPDA ARRAY AT GAURIBIDANUR RADIO OBSERVATORY
+title: ASTRONOMICAL OBSERVATION WEB TOOL FOR LPDA ARRAY AT GAURIBIDANUR RADIO OBSERVATORY
 subtitle: Program Report
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
