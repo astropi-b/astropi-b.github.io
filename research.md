@@ -69,7 +69,7 @@ permalink: /research/
   </div>
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
-    <h3><a href="/research/lpdasimulations/">Project Four</a></h3>
+    <h3><a href="/research/lpdasimulations/">ExoCluster</a></h3>
     <p>Brief description of Project Four.</p>
   </div>
   <div class="research-item">
