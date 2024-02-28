@@ -15,7 +15,7 @@ programs like Google Summer of Code.
 <table style="width: 100%;">
 <tr>
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="img/r1_1.png" alt="Setup" style="width: 100%;"> <!-- Makes the image fill the cell -->
+<img src="r1_1.png" alt="Setup" style="width: 100%;"> <!-- Makes the image fill the cell -->
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
 This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
