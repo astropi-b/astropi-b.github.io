@@ -1,26 +1,37 @@
 ---
 layout: post
-title: ASTRONOMICAL OBSERVATION WEB TOOL FOR LPDA ARRAY AT GAURIBIDANUR RADIO OBSERVATORY
+title: GLOT
 subtitle: Program Report
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
 ---
 
-KWOC is the 5-week long online program for the students who are new to
-open source software development. The program acts to be the platform for
-helping students take the steps to get involved in open source and making
-contributions to the projects. This also prepares students for other open source
-programs like Google Summer of Code.
+GLOT is Gauribidanur radio observatory Log periodic dipole antenna array Observation Tool.
 
 <table style="width: 100%;">
 <tr>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444" alt="Image description" style="width: 100%;">
+<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/29da2161-045c-410c-a482-d53c5deb8444" alt="LPDA Array" style="width: 100%;">
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
 This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
 </td>
+
+</tr>
+</table>
+
+<table style="width: 100%;">
+<tr>
+
+<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
+This web tool enables remote observations using the featured setup, allowing for data download and processing. It supports interferometry between two elements, including manual RFI marking, transit plotting, and fringe pattern analysis of the source.
+</td>
+
+<td style="width: 40%;"> <!-- Image cell with 40% width -->
+<img src="(https://github.com/astropi-b/astropi-b.github.io/assets/78492090/ec7675df-b73b-4240-ac9e-f4f227982b7c" alt="Webtoolflow" style="width: 100%;">
+</td>
+
 
 </tr>
 </table>
