@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Gauribidanur radio observatory Log periodic dipole antenna array Observation Tool - GLOT
 subtitle: Program Report
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
