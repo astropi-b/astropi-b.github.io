@@ -47,7 +47,7 @@ permalink: /research/
   }
 }
 </style>
-### My Research Areas
+
 <div class="research-grid">
   <!-- Research items -->
   <div class="research-item">
