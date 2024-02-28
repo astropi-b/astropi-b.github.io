@@ -48,7 +48,7 @@ Featured below are the demonstration videos of our web tool in action. The first
         <source src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/e1e52533-297b-4744-b1f5-41eac8e80cee" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div>Video 2</div>
+      <div>Video 1</div>
     </td>
     <!-- Second Video -->
     <td style="width: 50%; text-align: center;">
