@@ -14,14 +14,13 @@ programs like Google Summer of Code.
 
 <table style="width: 100%;">
 <tr>
-<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
-Your text goes here. You can write as much as you want here, and it will be aligned to the left and centered vertically relative to the image on the right.
-</td>
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-
-<img src="URL-to-your-image.png" alt="Your Image Alt Text" style="width: 100%;"> <!-- Makes the image fill the cell -->
-
+<img src="img/r1_1.png" alt="Setup" style="width: 100%;"> <!-- Makes the image fill the cell -->
 </td>
+<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
+This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
+</td>
+
 </tr>
 </table>
 
