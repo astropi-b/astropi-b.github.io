@@ -64,7 +64,7 @@ permalink: /research/
 
   <div class="research-item">
     <img class="research-image" src="/img/l3.png" alt="Project Three">
-    <h3><a href="/research/StatGalaxy">Optimizing Star Galaxy Classification</a></h3>
+    <h3><a href="/research/StatGalaxy/">Optimizing Star Galaxy Classification</a></h3>
     <p>We improve the Star Galaxy Classification Accuracies.</p>
   </div>
   <div class="research-item">
