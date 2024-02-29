@@ -2,7 +2,7 @@
 layout: page
 title:  Optimizing Star Glalaxy Classification
 tags: ['Deep Learning','Computer Vision','SDSS-DR18']
-permalink: /research/StarGalaxy/
+permalink: /research/sg/
 ---
 
 GLOT is Gauribidanur radio observatory Log periodic dipole antenna array Observation Tool.
