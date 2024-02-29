@@ -21,5 +21,3 @@ I wsdfglikeds
  
  
 ***Anumanchi Agastya Sai Ram Likhit***
-
-https://github.com/kiryteo
