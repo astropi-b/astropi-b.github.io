@@ -79,4 +79,5 @@ permalink: /research/
   </div>
 </div>
 
+https://www.researchgate.net/publication/378491097_Identifying_Potential_Habitats_Beyond_Earth_A_Multilayered_Statistical_Analysis_of_NASA's_Confirmed_Exoplanets
  
