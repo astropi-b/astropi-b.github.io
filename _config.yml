@@ -26,7 +26,6 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Blog: "blog"
-  Stuff: "stuff" 
   #Projects:
    # - ESoWC 2021: "https://github.com/esowc/climetlab"
    # - ESoWC 2020: "https://github.com/esowc/TC-Tracking"
