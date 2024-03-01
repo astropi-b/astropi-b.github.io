@@ -3,6 +3,45 @@ layout: page
 title: Anumanchi Agastya Sai Ram Likhit
 ---
 
+<style>
+.research-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.research-item {
+  margin-bottom: 20px; 
+  border: 1px solid #ddd; 
+  padding: 10px; 
+  border-radius: 8px; 
+  background-color: #f9f9f9; 
+  width: 30%; 
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Animation for transform and shadow */
+  margin-right: 1%; 
+  margin-left: 1%; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Initial shadow */
+}
+
+.research-item:hover {
+  transform: translateY(-5px) scale(1.05); /* Move up slightly and scale */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+@media (max-width: 800px) {
+  .research-item {
+    width: 45%; /* Adjust for smaller screens */
+  }
+}
+
+@media (max-width: 600px) {
+  .research-item {
+    width: 100%; /* Full width on very small screens */
+  }
+}
+</style>
+
+
 <div id="aboutme-section">
 
 <p class="about-text">
@@ -27,3 +66,22 @@ Eager in meeting new people, to connect, discuss, network and grow, mostly at ac
 </p>-->
 
 <br>
+<div class="research-grid">
+  <!-- Example of a research item without an image -->
+  <div class="research-item">
+    <h3><a href="/research/project1/">Project Title 1</a></h3>
+    <p>Short description of Project 1. This can be an abstract or summary.</p>
+  </div>
+
+  <div class="research-item">
+    <h3><a href="/research/project2/">Project Title 2</a></h3>
+    <p>Short description of Project 2. This can be an abstract or summary.</p>
+  </div>
+
+  <div class="research-item">
+    <h3><a href="/research/project3/">Project Title 3</a></h3>
+    <p>Short description of Project 3. This can be an abstract or summary.</p>
+  </div>
+  <!-- Add more items as needed -->
+</div>
+
