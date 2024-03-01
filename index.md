@@ -14,22 +14,59 @@ title: Anumanchi Agastya Sai Ram Likhit
 .research-item {
   flex: 1 0 calc(25% - 20px); /* Flex grow, flex shrink, and basis */
   display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  flex-direction: column;
+  justify-content: space-around; /* Distribute space around items */
+  align-items: center; /* Center items vertically */
+  text-align: center; /* Ensure text is centered */
   min-width: 240px; /* Fixed minimum width of the box */
-  height: 200px; /* Fixed height for uniformity */
+  height: 250px; /* Adjusted height for uniformity */
   margin: 5px; /* Margin around the boxes */
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
+  padding: 20px;
+  border: 2px solid transparent;
+  border-radius: 10px;
   background-color: #f9f9f9;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-in-out;
+  overflow: hidden; /* Prevent overflow */
+  position: relative; /* For pseudo-elements */
+}
+
+.research-item:before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.5s ease;
+  display: block;
+  transform: rotate(45deg);
+  pointer-events: none;
+}
+
+.research-item:hover:before {
+  top: -20%;
+  left: -20%;
+  width: 140%;
+  height: 140%;
 }
 
 .research-item:hover {
-  transform: translateY(-5px) scale(1.05);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-color: #007bff; /* Highlight color */
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.research-item h4 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+.research-item p {
+  font-size: 14px;
+  color: #666;
 }
 </style>
 
