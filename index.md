@@ -120,6 +120,7 @@ My research interests are broad and varied, reflecting my curiosity about the co
     <h4>Exoplanets Formation and Detection</h4>
     <p>Investigating the birth and discovery of planets beyond our solar system.</p>
   </div>
+  
   <div class="research-item">
     <h4>Observational Cosmology</h4>
     <p>Studying the structure and evolution of the universe through observations and data analysis.</p>
@@ -128,8 +129,7 @@ My research interests are broad and varied, reflecting my curiosity about the co
 
 ## A Thought-Provoking Quote
 
-> "An expert is a man who has made all the mistakes which can be made, in a narrow field."
-> ~ Niels Bohr
+> "If the rate of expansion one second after the Big Bang had been smaller by even one part in a hundred thousand million million, it would have recollapsed before it reached its present size. On the other hand, if it had been greater by a part in a million, the universe would have expanded too rapidly for stars and planets to form.  ~ Stephen Hawking
 
 
 Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries of the universe.
