@@ -27,7 +27,6 @@ title: Anumanchi Agastya Sai Ram Likhit
   background-color: #f9f9f9;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   transition: all 0.3s ease-in-out;
-  overflow: hidden; /* Prevent overflow */
   position: relative; /* For pseudo-elements */
 }
 
@@ -42,39 +41,49 @@ title: Anumanchi Agastya Sai Ram Likhit
   color: #666;
 }
 
-/* Keyframes for the color traveling effect */
+/* Border Animation */
+.research-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  transition: border-color 0s linear;
+}
+
+.research-item:hover::before {
+  border-color: lavender;
+  animation: slideBorder 4s linear infinite;
+}
+
 @keyframes slideBorder {
-  0% {
-    border-top-color: #007bff; /* Starting color */
+  0%, 100% {
+    border-top-color: lavender;
     border-right-color: transparent;
     border-bottom-color: transparent;
     border-left-color: transparent;
   }
   25% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
+    border-top-color: lavender;
+    border-right-color: lavender;
     border-bottom-color: transparent;
     border-left-color: transparent;
   }
   50% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: #007bff;
+    border-top-color: lavender;
+    border-right-color: lavender;
+    border-bottom-color: lavender;
     border-left-color: transparent;
   }
   75% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: #007bff;
-    border-left-color: #007bff;
+    border-top-color: lavender;
+    border-right-color: lavender;
+    border-bottom-color: lavender;
+    border-left-color: lavender;
   }
-  100% {
-    border-color: #007bff;
-  }
-}
-
-.research-item:hover {
-  animation: slideBorder 2s infinite linear;
 }
 </style>
 
@@ -112,4 +121,4 @@ My research interests are broad and varied, reflecting my curiosity about the co
 
 > "In the vast expanse of the cosmos, every discovery is a reminder of our humble beginnings and the limitless possibilities that await." - Anumanchi Agastya Sai Ram Likhit
 
-Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries
+Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries of the universe.
