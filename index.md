@@ -101,10 +101,16 @@ My research interests are broad and varied, reflecting my curiosity about the co
   </div>
 
   <div class="research-item">
-    <h4>Big Data Astronomy</h4>
-    <p>Leveraging massive datasets to understand cosmic phenomena and patterns across the universe.</p>
+    <h4>Data Science in Astronomy & Astrophysics</h4>
+    <p>Utilizing data science, machine learning, neural networks, and computer vision to explore and interpret vast astronomical datasets, driving forward the latest advancements in the field.</p>
   </div>
 
+
+  <div class="research-item">
+    <h4>Observational Cosmology</h4>
+    <p>Studying the structure and evolution of the universe through observations and data analysis.</p>
+  </div>
+  
   <div class="research-item">
     <h4>Astronomical Instrumentation and Technologies</h4>
     <p>Developing and utilizing advanced technologies to enhance our observational capabilities.</p>
@@ -113,6 +119,10 @@ My research interests are broad and varied, reflecting my curiosity about the co
   <div class="research-item">
     <h4>Exoplanets Formation and Detection</h4>
     <p>Investigating the birth and discovery of planets beyond our solar system.</p>
+  </div>
+  <div class="research-item">
+    <h4>Observational Cosmology</h4>
+    <p>Studying the structure and evolution of the universe through observations and data analysis.</p>
   </div>
 </div>
 
