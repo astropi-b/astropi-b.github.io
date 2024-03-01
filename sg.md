@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  A NOVEL SECTOR-BASED ALGORITHM FOR AN OPTIMIZED STAR-GALAXY CLASSIFICATION
+title:  A NOVEL SECTOR BASED ALGORITHM FOR AN OPTIMIZED STAR-GALAXY CLASSIFICATION
 tags: ['Deep Learning','Computer Vision','SDSS-DR18']
 permalink: /research/sg/
 ---
