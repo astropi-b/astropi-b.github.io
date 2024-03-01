@@ -69,18 +69,15 @@ Eager in meeting new people, to connect, discuss, network and grow, mostly at ac
 <div class="research-grid">
   <!-- Example of a research item without an image -->
   <div class="research-item">
-    <h3><a href="/research/project1/">Project Title 1</a></h3>
-    <p>Short description of Project 1. This can be an abstract or summary.</p>
+    <h4>Project Title 1</h4>
   </div>
 
   <div class="research-item">
-    <h3><a href="/research/project2/">Project Title 2</a></h3>
-    <p>Short description of Project 2. This can be an abstract or summary.</p>
+    <h5>Project Title 2 </h5>
   </div>
 
   <div class="research-item">
-    <h3><a href="/research/project3/">Project Title 3</a></h3>
-    <p>Short description of Project 3. This can be an abstract or summary.</p>
+    <h6>Project Title 3</h6>
   </div>
   <!-- Add more items as needed -->
 </div>
