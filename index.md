@@ -27,12 +27,12 @@ title: Anumanchi Agastya Sai Ram Likhit
   background-color: #f9f9f9;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   transition: all 0.3s ease-in-out;
-  overflow: hidden; /* Prevent overflow */
-  position: relative; /* For pseudo-elements */
+  position: relative; /* For the animation */
+  overflow: hidden; /* Prevent overflow for the border animation */
 }
 
 .research-item h4 {
-  margin-bottom: 5px; /* Decreased spacing between title and description */
+  margin: 5px 0; /* Reduced spacing between title and description */
   font-size: 18px;
   color: #333;
 }
@@ -42,39 +42,42 @@ title: Anumanchi Agastya Sai Ram Likhit
   color: #666;
 }
 
-/* Keyframes for the color traveling effect */
-@keyframes slideBorder {
-  0% {
-    border-top-color: #007bff; /* Starting color */
-    border-right-color: transparent;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-  }
-  25% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-  }
-  50% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: #007bff;
-    border-left-color: transparent;
-  }
-  75% {
-    border-top-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: #007bff;
-    border-left-color: #007bff;
-  }
-  100% {
-    border-color: #007bff;
-  }
+.research-item:before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, transparent, transparent 40%, #007bff);
+  transition: all 0.5s ease;
+  display: block;
+  transform: rotate(45deg);
+  pointer-events: none;
+}
+
+.research-item:hover:before {
+  top: -20%;
+  left: -20%;
+  width: 140%;
+  height: 140%;
+  background: linear-gradient(45deg, transparent, transparent 40%, #007bff, transparent 60%, transparent);
+  animation: borderTravel 2s infinite linear;
 }
 
 .research-item:hover {
-  animation: slideBorder 2s infinite linear;
+  border-color: #007bff; /* Highlight color */
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes borderTravel {
+  0% {
+    transform: rotate(45deg) translate(0, 0);
+  }
+  100% {
+    transform: rotate(45deg) translate(100%, 100%);
+  }
 }
 </style>
 
@@ -112,4 +115,5 @@ My research interests are broad and varied, reflecting my curiosity about the co
 
 > "In the vast expanse of the cosmos, every discovery is a reminder of our humble beginnings and the limitless possibilities that await." - Anumanchi Agastya Sai Ram Likhit
 
-Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries
+Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries of the universe!
+
