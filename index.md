@@ -89,6 +89,7 @@ title: Anumanchi Agastya Sai Ram Likhit
 # Welcome to My Page!
 
 Hello! I'm Anumanchi Agastya Sai Ram Likhit, an Integrated Masters student specializing in [your specialization], currently studying at [IISER Bhopal, India](https://www.iiserb.ac.in/). My academic journey is driven by a passion for exploring the mysteries of the universe and understanding the underlying principles that govern it. With a keen interest in both theoretical and practical aspects of my field, I am constantly seeking to expand my knowledge and engage in meaningful research.
+Hello! I'm Anumanchi Agastya Sai Ram Likhit, an Integrated Masters (BS-MS) student specializing in Physics with a minor in Data Science, currently studying at [IISER Bhopal, India](https://www.iiserb.ac.in/). My academic journey is driven by a passion for exploring the mysteries of the universe and understanding the underlying principles that govern it. With a keen interest in astronomy, astrophysics, cosmology, data science, and observational and instrumental astronomy, I am constantly seeking to expand my knowledge and engage in meaningful research. By implementing the latest advancements in data science and technology in astronomy, I aim to contribute to the growth and development of this fascinating field.
 
 ## Research Interests
 
@@ -118,7 +119,7 @@ My research interests are broad and varied, reflecting my curiosity about the co
 
   <div class="research-item">
     <h4>Exoplanets Formation and Detection</h4>
-    <p>Investigating the birth and discovery of planets beyond our solar system.</p>
+    <p>Investigating the formation and discovery of planets beyond our solar system.</p>
   </div>
   
   <div class="research-item">
