@@ -126,8 +126,10 @@ My research interests are broad and varied, reflecting my curiosity about the co
   </div>
 </div>
 
-## A Personal Quote
+## A Thought-Provoking Quote
 
-> "In the vast expanse of the cosmos, every discovery is a reminder of our humble beginnings and the limitless possibilities that await." - Anumanchi Agastya Sai Ram Likhit
+> "An expert is a man who has made all the mistakes which can be made, in a narrow field."
+> ~ Niels Bohr
+
 
 Thank you for visiting my page. Feel free to connect with me to discuss ideas, research, or potential collaborations. Together, let's unravel the mysteries of the universe.
