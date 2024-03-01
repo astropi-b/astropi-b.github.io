@@ -7,16 +7,20 @@ title: Anumanchi Agastya Sai Ram Likhit
 .research-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: start; /* Align items to the start of the container */
+  justify-content: start; /* Align boxes to the start of the container */
+  gap: 10px; /* Adds space between the boxes */
 }
 
 .research-item {
-  flex: 1; /* Allows the box to grow */
-  min-width: calc(25% - 20px); /* Minimum width for 4 items per row minus some margin */
-  max-width: calc(25% - 20px); /* Maximum width to ensure 4 items per row */
-  margin: 10px; /* Adjust margin to your preference */
-  border: 1px solid #ddd;
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  flex-grow: 1;
+  min-width: 120px; /* Minimum width of the box */
+  max-width: calc(25% - 10px); /* Maximum width to allow up to four boxes in a row */
+  margin: 5px; /* Margin around the boxes */
   padding: 10px;
+  border: 1px solid #ddd;
   border-radius: 8px;
   background-color: #f9f9f9;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -28,7 +32,6 @@ title: Anumanchi Agastya Sai Ram Likhit
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 </style>
-
 
 
 <div id="aboutme-section">
@@ -58,15 +61,21 @@ Eager in meeting new people, to connect, discuss, network and grow, mostly at ac
 <div class="research-grid">
   <!-- Example of a research item without an image -->
   <div class="research-item">
-    <h4>Project Title 1</h4>
+    <h4>Radio Astronomy</h4>
   </div>
 
   <div class="research-item">
-    <h5>Project Title 2 </h5>
+    <h4>Big Data Astronomy</h4>
   </div>
 
   <div class="research-item">
-    <h6>Project Title 3</h6>
+    <h4>Astronomical Instrumentations and Technologies</h4>
+  </div>
+  <div class="research-item">
+    <h4>Exoplanets Formation and Detection</h4>
+  </div>
+  <div class="research-item">
+    <h4>Observation Cosmology</h4>
   </div>
   <!-- Add more items as needed -->
 </div>
