@@ -42,41 +42,32 @@ title: Anumanchi Agastya Sai Ram Likhit
   color: #666;
 }
 
-.research-item:before {
-  content: "";
+.research-item::after {
+  content: '';
   position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(45deg, transparent, transparent 40%, #007bff);
-  transition: all 0.5s ease;
-  display: block;
-  transform: rotate(45deg);
-  pointer-events: none;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  transition: border-color 0.4s, transform 0.6s;
+  transform: scale(0.1);
+  z-index: -1;
 }
 
-.research-item:hover:before {
-  top: -20%;
-  left: -20%;
-  width: 140%;
-  height: 140%;
-  background: linear-gradient(45deg, transparent, transparent 40%, #007bff, transparent 60%, transparent);
-  animation: borderTravel 2s infinite linear;
+.research-item:hover::after {
+  border-color: lavender; /* Lavender border on hover */
+  transform: scale(1);
+  transition: border-color 0.4s, transform 0.6s cubic-bezier(0.2, 1, 0.3, 1);
 }
 
-.research-item:hover {
-  border-color: #007bff; /* Highlight color */
-  transform: translateY(-10px) scale(1.05);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
-@keyframes borderTravel {
+@keyframes borderRun {
   0% {
-    transform: rotate(45deg) translate(0, 0);
+    transform: rotate(0deg) translate(0, 0);
   }
   100% {
-    transform: rotate(45deg) translate(100%, 100%);
+    transform: rotate(360deg) translate(0, 0);
   }
 }
 </style>
