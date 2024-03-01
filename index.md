@@ -40,7 +40,6 @@ title: Anumanchi Agastya Sai Ram Likhit
   font-size: 14px;
   color: #666;
 }
-
 /* Border Animation */
 .research-item::before {
   content: "";
@@ -55,34 +54,34 @@ title: Anumanchi Agastya Sai Ram Likhit
 }
 
 .research-item:hover::before {
-  border-color: lavender;
+  border-color: #967bb6; /* Darker shade of lavender */
   animation: slideBorder 4s linear infinite;
 }
 
 @keyframes slideBorder {
   0%, 100% {
-    border-top-color: lavender;
+    border-top-color: #967bb6; /* Darker shade of lavender */
     border-right-color: transparent;
     border-bottom-color: transparent;
     border-left-color: transparent;
   }
   25% {
-    border-top-color: lavender;
-    border-right-color: lavender;
+    border-top-color: #967bb6;
+    border-right-color: #967bb6;
     border-bottom-color: transparent;
     border-left-color: transparent;
   }
   50% {
-    border-top-color: lavender;
-    border-right-color: lavender;
-    border-bottom-color: lavender;
+    border-top-color: #967bb6;
+    border-right-color: #967bb6;
+    border-bottom-color: #967bb6;
     border-left-color: transparent;
   }
   75% {
-    border-top-color: lavender;
-    border-right-color: lavender;
-    border-bottom-color: lavender;
-    border-left-color: lavender;
+    border-top-color: #967bb6;
+    border-right-color: #967bb6;
+    border-bottom-color: #967bb6;
+    border-left-color: #967bb6;
   }
 }
 </style>
