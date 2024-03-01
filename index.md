@@ -122,9 +122,10 @@ My research interests are broad and varied, reflecting my curiosity about the co
   </div>
   
   <div class="research-item">
-    <h4>Observational Cosmology</h4>
-    <p>Studying the structure and evolution of the universe through observations and data analysis.</p>
+    <h4>Multi-wavelength Observations</h4>
+    <p>Employing observations across multiple wavelengths to gain a comprehensive understanding of celestial phenomena, revealing insights that single-wavelength studies cannot provide.</p>
   </div>
+
 </div>
 
 ## A Thought-Provoking Quote
