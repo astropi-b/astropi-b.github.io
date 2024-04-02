@@ -11,7 +11,7 @@ Papers can also be found on [Google Scholar](https://scholar.google.co.in/citati
 <b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek, Prabu T. <b>*Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Array at Gauribidanur Radio Observatory*</b>, Aiming to Publish in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Anumanchi Agastya Sai Ram Likhit</b>,Katta Naveen, Roshan Kumar Dora, Deep Bhowmik, Krishna Balaji S, Arutkeerthi N, Abhishek R, Arul Pandian B, Sahana Bhattramakki, Prabu T, Raghavendra Rao K B, Keerthipriya S, Arasi Sathyamurthy. Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Two-Element Radio Interferometer: Exploring the SKA Low Frequency Band at Gauribidanur*</b>, Aiming to Publish in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
+Abhishek R,<b>Anumanchi Agastya Sai Ram Likhit</b>,Katta Naveen, Roshan Kumar Dora, Deep Bhowmik, Krishna Balaji S, Arutkeerthi N, Arul Pandian B, Sahana Bhattramakki, Prabu T, Raghavendra Rao K B, Keerthipriya S, Arasi Sathyamurthy. Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Two-Element Radio Interferometer: Exploring the SKA Low Frequency Band at Gauribidanur*</b>, Aiming to Publish in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
 
 ## 2024
 
