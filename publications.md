@@ -8,7 +8,7 @@ Papers can also be found on [Google Scholar](https://scholar.google.co.in/citati
 ## Upcoming
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek, Prabu T. <b>*Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Array at Gauribidanur Radio Observatory*</b>, Aiming to Publish in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
+<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek, Prabu T. <b>*Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Array at Gauribidanur Radio Observatory*</b>, Under Review in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
 Abhishek R,<b>Anumanchi Agastya Sai Ram Likhit</b>,Katta Naveen, Roshan Kumar Dora, Deep Bhowmik, Krishna Balaji S, Arutkeerthi N, Arul Pandian B, Sahana Bhattramakki, Prabu T, Raghavendra Rao K B, Keerthipriya S, Arasi Sathyamurthy. Lijo George, Mahak Bansal, Yogesh Wadadekar. <b>*Two-Element Radio Interferometer: Exploring the SKA Low Frequency Band at Gauribidanur*</b>, Aiming to Publish in Journal of Astronomy and Astrophysics (<a target="_blank" href="">Paper</a>)
@@ -27,4 +27,4 @@ Roshan Kumar Dora, <b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Deep B
 ## 2023
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#37751cff; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE POSTER</b></span>
-<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek. <b>*An Innovative Web Tool for Remote Data Acquisition and Analysis : Customised for SKA Test LPDA Setups at Gauribidanur Radio Observatory*</b>, 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023). (<a target="_blank" href="https://www.researchgate.net/publication/376265776_An_Innovative_Web_Tool_for_Remote_Data_Acquisition_and_Analysis_Customised_for_SKA_Test_LPDA_Setups_at_Gauribidanur_Radio_Observatory">Extended Abstract</a>)
+<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek. <b>*An Innovative Web Tool for Remote Data Acquisition and Analysis : Customised for SKA Test LPDA Setups at Gauribidanur Radio Observatory*</b>, 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023). (<a target="_blank" href="https://doi.org/10.13140/RG.2.2.22933.13283"> Link to Poster</a>)
