@@ -30,7 +30,7 @@ permalink: /projects/
 }
 
 .research-image {
-  max-width: 100%; 
+  max-width: 500%; 
   height: auto; 
   border-radius: 8px;
 }
