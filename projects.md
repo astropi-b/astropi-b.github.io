@@ -72,13 +72,13 @@ permalink: /projects/
   </div>
   
   <div class="research-item">
-    <img class="research-image" src="/img/r1_1.png" alt="G.L.O.T">
+    <img class="research-image" src="/img/r1_2.png" alt="G.L.O.T">
     <h3><a href="/research/webtool/">Gauribidanur Radio Observatory LPDA array Observational Tool (GLOT)</a></h3>
     <p>An innovative Web Tool for Radio Astronomy Observations at G.R.O</p>
   </div>
 
   <div class="research-item">
-    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+    <img class="research-image" src="/img/r1_1.png" alt="Project Two">
     <h3><a href="/research/lpdasimulations/">Establishment of L.P.D.A Array at G.R.O</a></h3>
     <p>Brief description of Project Two.</p>
   </div>
