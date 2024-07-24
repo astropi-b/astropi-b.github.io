@@ -83,24 +83,6 @@ year={2024},
 url={https://openreview.net/forum?id=HzEefCle2c}
 }
 
-<table style="width: 100%;">
-<tr>
-<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
-The publication presents the detailed methodology and results of our sector-based algorithm, emphasizing its innovative approach and the significant improvements it brings to the field of star-galaxy classification.
-</td>
-
-<td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/publication-cover.jpg" style="width: 100%;">
-</td>
-
-</tr>
-</table>
-
-- **Paper:** "An Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Setup at Gauribidanur Radio Observatory" (2024.06)
-- **Journal:** Journal of Astronomy & Astrophysics (JoAA) 2024, Under Review
-
-***Anumanchi Agastya Sai Ram Likhit***
-
 
 ***Anumanchi Agastya Sai Ram Likhit***
 
