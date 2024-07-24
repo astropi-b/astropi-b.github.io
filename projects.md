@@ -60,7 +60,7 @@ permalink: /projects/
   </div>
   
    <div class="research-item">
-    <img class="research-image" src="/img/galaxies.jpeg" alt="galaxies">
+    <img class="research-image" src="/img/galaxys.jpg" alt="galaxies">
     <h3><a href="/research/galaxies/"> Score-Based Generative Modeling through Stochastic Differential Equations for Galaxies </a></h3>
     <p> Aim to devlop an AI model for galaxy Datasets which solves various astronomical and cosmological problems.</p>
   </div>
