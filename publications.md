@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans; font-size:32px;\"> Publications </span> "
 ---
 
 Papers can also be found on [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=hyYMTlcAAAAJ).
