@@ -63,22 +63,43 @@ Featured below are the demonstration videos of our web tool in action. The first
   </tr>
 </table>
 
+### Publications
 
-## Upcoming Research Publication
+We submitted this work to the ICLR Conference 2024 as a tiny paper, had it peer reviewed by three experts in the field, and received acceptance as a paper. The details are as follows:
 
-**Title:** "Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Setups at Gauribidanur Radio Observatory"
+- **Paper:** "A Novel Sector-Based Algorithm for an Optimized Star-Galaxy Classification"
+- **Authors:** Anumanchi Agastya Sai Ram Likhit, Divyansh Tripathi, Akshay Agarwal
+- **Conference:** The Second Tiny Papers Track at ICLR 2024
+- **Year:** 2024
+- **URL:** [https://openreview.net/forum?id=HzEefCle2c](https://openreview.net/forum?id=HzEefCle2c)
+- **DOI:** [https://doi.org/10.48550/arXiv.2404.01049](https://doi.org/10.48550/arXiv.2404.01049)
 
-**Authors:** Agastya et al.
+@inproceedings{
+likhit2024a,
+title={A Novel Sector-Based Algorithm for an Optimized Star-Galaxy Classification},
+author={Anumanchi Agastya Sai Ram Likhit and Divyansh Tripathi and Akshay Agarwal},
+booktitle={The Second Tiny Papers Track at ICLR 2024},
+year={2024},
+url={https://openreview.net/forum?id=HzEefCle2c}
+}
 
-**Target Journal:** Journal of Astronomy and Astrophysics
+<table style="width: 100%;">
+<tr>
+<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
+The publication presents the detailed methodology and results of our sector-based algorithm, emphasizing its innovative approach and the significant improvements it brings to the field of star-galaxy classification.
+</td>
 
-This work is currently in preparation for submission. It encompasses the development and application of a web tool designed for remote data acquisition and analysis, specifically tailored for the SKA Test LPDA setups at the Gauribidanur Radio Observatory.
+<td style="width: 40%;"> <!-- Image cell with 40% width -->
+<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/publication-cover.jpg" style="width: 100%;">
+</td>
 
-### Disclaimer and Usage Policy
+</tr>
+</table>
 
-The content displayed on this page, including data, methodologies, and related multimedia, is part of an ongoing research project. This material is provided for educational and demonstrative purposes only.
+- **Paper:** "An Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Setup at Gauribidanur Radio Observatory" (2024.06)
+- **Journal:** Journal of Astronomy & Astrophysics (JoAA) 2024, Under Review
 
-For any inquiries or requests regarding the use of this material, please refer to my contact details provided at the end of this page.
+***Anumanchi Agastya Sai Ram Likhit***
 
 
 ***Anumanchi Agastya Sai Ram Likhit***
