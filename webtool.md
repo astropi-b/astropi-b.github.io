@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"<span style=\"font-family: 'Courier New', Courier, monospace; font-size: 49px;\">Gauribidanur Radio Observatory Log Periodic Dipole Antenna Array Observation Tool (GLOT)</span>"
+title: <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 49px;\">Gauribidanur Radio Observatory Log Periodic Dipole Antenna Array Observation Tool (GLOT)</span>
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
 ---
