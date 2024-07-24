@@ -60,23 +60,17 @@ Featured below are the demonstration videos of our web tool in action. The first
   </tr>
 </table>
 
+### Presentations and Publications
 
-## Upcoming Research Publication
+This work has been presented as a poster titled "Innovative Remote Web Tool for SKA Test LPDA Array at Gauribidanur Radio Observatory." The details are as follows:
 
-**Title:** "Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Setups at Gauribidanur Radio Observatory"
+- **Poster:** [Innovative Remote Web Tool for SKA Test LPDA Array at Gauribidanur Radio Observatory](https://doi.org/10.13140/RG.2.2.22933.13283) (2023.11)
+- **Conference:** 4th Annual Meet of Modern Engineering Trends in Astronomy (META-2023)
 
-**Authors:** Agastya et al.
+Additionally, a paper related to this work is under review:
 
-**Target Journal:** Journal of Astronomy and Astrophysics
-
-This work is currently in preparation for submission. It encompasses the development and application of a web tool designed for remote data acquisition and analysis, specifically tailored for the SKA Test LPDA setups at the Gauribidanur Radio Observatory.
-
-### Disclaimer and Usage Policy
-
-The content displayed on this page, including data, methodologies, and related multimedia, is part of an ongoing research project. This material is provided for educational and demonstrative purposes only.
-
-For any inquiries or requests regarding the use of this material, please refer to my contact details provided at the end of this page.
-
+- **Paper:** "An Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Setup at Gauribidanur Radio Observatory" (2024.06)
+- **Journal:** Journal of Astronomy & Astrophysics (JoAA) 2024, Under Review
 
 ***Anumanchi Agastya Sai Ram Likhit***
 
