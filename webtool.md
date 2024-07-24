@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\">Gauribidanur Radio Observatory Log Periodic Dipole Antenna Array Observation Tool (GLOT)</span>"
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\">Gauribidanur Radio Observatory Log Periodic Dipole Antenna Array Observation Tool (GLOT)</span> "
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
 ---
@@ -33,8 +33,6 @@ This web tool enables remote observations using the featured setup, allowing for
 
 </tr>
 </table>
-
-
 
 
 Featured below are the demonstration videos of our web tool in action. The first video highlights the tool's capability for conducting remote observations from the Raman Research Institute, located 90 km away from the Gauribidanur Radio Observatory. It also demonstrates the functionality to download collected data and perform minimal data processing. The second video showcases the updated version of the web tool, which now includes features for manual RFI masking and transit plotting, as exemplified through a solar transit observation.
