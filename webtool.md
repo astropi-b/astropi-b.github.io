@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  G.L.O.T
+title: <span style="font-family: 'Courier New', Courier, monospace;"> Gauribidanur Radio Observatory Log Periodic Dipole Antenna Array Observation Tool (GLOT) </span> 
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
 ---
