@@ -23,7 +23,7 @@ title: Anumanchi Agastya Sai Ram Likhit
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "Projects"
+  Projects : "research"
   Publications: "publications"
   #Projects:
    # - ESoWC 2021: "https://github.com/esowc/climetlab"
