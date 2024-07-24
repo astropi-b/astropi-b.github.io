@@ -68,7 +68,7 @@ permalink: /projects/
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
     <h3><a href="/research/lpdasimulations/">Seeing the Unseen: A Search for Primordial Gravitational Waves</a></h3>
-    <p> This work is my Masters Project where i am working on devloping an working model for the detection of Cosmic Microwav Background's Primordial B mode Component from the future Observations. </p>
+    <p>  This is my Masters Project, where I am developing a working model for detecting the cosmic microwave background's primordial B mode component from planned future observations. </p>
   </div>
   
   <div class="research-item">
