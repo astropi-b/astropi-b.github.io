@@ -55,13 +55,13 @@ permalink: /projects/
   <!-- Research items -->
    <div class="research-item">
     <img class="research-image" src="/img/sdc3b.jpeg" alt="SDC3">
-    <h3><a href="/research/webtool/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
+    <h3><a href="/research/sdc3/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
     <p> In collaboration with the SKAO team and Centro de Supercomputación de Galicia (CESGA), we are using modern data analysis techniques to infer unknown properties at the epoch of reionization.</p>
   </div>
   
    <div class="research-item">
     <img class="research-image" src="/img/l1.png" alt="G.L.O.T">
-    <h3><a href="/research/webtool/"> Galaxy Study </a></h3>
+    <h3><a href="/research/galaxies/"> Galaxy Study </a></h3>
     <p> Aim to devlop an AI model for galaxy Datasets which solves various astronomical and cosmological problems.</p>
   </div>
   
