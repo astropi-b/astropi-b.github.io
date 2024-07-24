@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<span style=\"font-family: 'Apple Chancery', cursive; font-size:81px;\">Hola!</span>"
+title: "<span style=\"font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size:81px;\">Hola!</span>"
 ---
 
 # <span style="font-family: 'Courier New', Courier, monospace;">Welcome to My Page!</span>
