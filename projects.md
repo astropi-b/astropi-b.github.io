@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans; font-size:32px;\"> My Work in Astronomy and Cosmology </span> "
 permalink: /projects/
 ---
 
@@ -49,7 +49,7 @@ permalink: /projects/
 </style>
 
 
-## Research Projects
+
 
 <div class="research-grid">
   <!-- Research items -->
