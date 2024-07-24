@@ -5,7 +5,7 @@ tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/webtool/
 ---
 
-<span style="font-family: 'Courier New', Courier, monospace;"> **This work here focuses on developing a web interface for the newly established Log periodic dipole antenna array at the Gauribidanur radio observatory, which enables remote observations (robust and simple), data analysis, and data sharing features.** </span>
+<span style="font-family: 'Andale Mono', monospace;"> This work here focuses on developing a web interface for the newly established Log periodic dipole antenna array at the Gauribidanur radio observatory, which enables remote observations (robust and simple), data analysis, and data sharing features. </span>
 
 <table style="width: 100%;">
 <tr>
