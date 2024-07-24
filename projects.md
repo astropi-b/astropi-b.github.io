@@ -64,6 +64,12 @@ permalink: /projects/
     <h3><a href="/research/galaxies/"> Galaxy Study </a></h3>
     <p> Aim to devlop an AI model for galaxy Datasets which solves various astronomical and cosmological problems.</p>
   </div>
+
+  <div class="research-item">
+    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+    <h3><a href="/research/lpdasimulations/">Seeing the Unseen</a></h3>
+    <p> Seeing the Unseen: A Search for Primordial Gravitational Waves </p>
+  </div>
   
   <div class="research-item">
     <img class="research-image" src="/img/l1.png" alt="G.L.O.T">
@@ -87,9 +93,5 @@ permalink: /projects/
     <h3><a href="/research/lpdasimulations/">ExoCluster</a></h3>
     <p>Brief description of Project Four.</p>
   </div>
-  <div class="research-item">
-    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
-    <h3><a href="/research/lpdasimulations/">Project Five</a></h3>
-    <p>Brief description of Project Five.</p>
-  </div>
+  
 </div>
