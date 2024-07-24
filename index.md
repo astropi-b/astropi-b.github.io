@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="font-family: 'Brush Script MT', cursive; font-size: 48px;">Hola!</span> 
+title: "<span style=\"font-family: 'Brush Script MT', cursive; font-size: 48px;\">Hola!</span>"
 ---
 
 # <span style="font-family: 'Courier New', Courier, monospace;">Welcome to My Page!</span>
