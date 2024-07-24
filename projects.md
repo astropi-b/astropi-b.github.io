@@ -56,8 +56,7 @@ permalink: /projects/
    <div class="research-item">
     <img class="research-image" src="/img/l1.png" alt="G.L.O.T">
     <h3><a href="/research/webtool/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
-     
-    <p> Using Modern Data Anaylsis Techniques to infer about unverse properties at the epoch of Reionization in Collabaration with the SKAO Team.</p>
+    <p> In collaboration with the SKAO team and Centro de Supercomputación de Galicia (CESGA), we are using modern data analysis techniques to infer unknown properties at the epoch of reionization.</p>
   </div>
   
    <div class="research-item">
