@@ -14,7 +14,7 @@ Recently, several research works have been developed to help astronomers by auto
 <tr>
 
 <td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/df92c0fe-9668-4366-a0d1-5af24bbda480" alt="LPDA Array" style="width: 100%;">
+<img width="381" alt="sg" src="https://github.com/user-attachments/assets/61eb92a8-49d3-4d4a-b96d-d60cbc22573e">
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
 This image showcases the Log Periodic Dipole Antenna (LPDA) array, the primary setup utilised by our web tool for astronomical observations and data analysis.
