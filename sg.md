@@ -17,6 +17,8 @@ Task: Try to figure out which image corresponds to a star and which corresponds 
 </tr>
 </table>
 
+The above-demonstrated task consists of real observation data from SDSS DR18, and we can see that in many cases, it is impossible for humans with the naked eye to classify a source as a star or galaxy.
+
 We devloped a novel sector-based methodology for star-galaxy classification, leveraging the latest Sloan Digital Sky Survey data (SDSS-DR18). By strategically segmenting the sky into sectors aligned with SDSS observational patterns and employing a dedicated convolutional neural network (CNN), we achieve state-of-the-art performance for star galaxy classification. Our preliminary results demonstrate a promising pathway for efficient and precise astronomical analysis, especially in real-time observational settings.
 
 Recently, several research works have been developed to help astronomers by automatically classifying the galaxies (Soumagnac et al., 2015; Ba Alawi & Al-Roainy, 2021; Chaini et al., 2022; Kim & Brunner, 2016; Garg et al., 2022). However, these models perform well but are complex. In contrast to the existing work, due to the complexity of our star-galaxy system, in this research, we have proposed the development of a classification approach utilizing a sector-based division of the sky.
