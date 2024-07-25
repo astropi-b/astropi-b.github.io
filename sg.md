@@ -11,7 +11,7 @@ permalink: /research/sg/
 <img src="https://github.com/user-attachments/assets/61eb92a8-49d3-4d4a-b96d-d60cbc22573e" alt="SG"  style="width: 100%;">
 </td>
 <td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
-Task: Try to figure out which image corresponds to a star and which corresponds to a galaxy.
+Task: Try to figure out which image corresponds to a star and which corresponds to a galaxy. (Answers: (a) - Star, (b) - Galaxy, (c) - Star, (d) - Galaxy, (e) - Galaxy )
 </td>
 
 </tr>
