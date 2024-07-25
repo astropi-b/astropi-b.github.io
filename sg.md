@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\"> A NOVEL SECTOR BASED ALGORITHM FOR AN OPTIMIZED STAR-GALAXY CLASSIFICATION </span> "
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\"> A NOVEL SECTOR BASED ALGORITHM FOR AN OPTIMIZED STAR-GALAXY CLASSIFICATION </span> "
 tags: ['Deep Learning','Computer Vision','SDSS-DR18']
 permalink: /research/sg/
 ---
