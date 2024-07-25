@@ -25,47 +25,14 @@ We devloped a novel sector-based methodology for star-galaxy classification, lev
 
 Recently, several research works have been developed to help astronomers by automatically classifying the galaxies (Soumagnac et al., 2015; Ba Alawi & Al-Roainy, 2021; Chaini et al., 2022; Kim & Brunner, 2016; Garg et al., 2022). However, these models perform well but are complex. In contrast to the existing work, due to the complexity of our star-galaxy system, in this research, we have proposed the development of a classification approach utilizing a sector-based division of the sky.
 
+We have proposed a novel and cost-effective algorithm for star-galaxy classification by handling
+sector-specific data. The efficacy of the proposed algorithm surpasses the existing algorithm back
+our idea of segregating the sky into sectors for better performance. In the future, we aim to develop
+an advanced architecture to tackle other sectors and improve the classification performance of the
+proposed approach by incorporating sector-specific auxiliary information. We believe the proposed
+research can advance the astronomical research by precisely identifying the celestial objects.
 
-
-<table style="width: 100%;">
-<tr>
-<td valign="middle" style="width: 60%;"> <!-- Text cell with 60% width -->
-This web tool enables remote observations using the featured setup, allowing for data download and processing. It supports interferometry between two elements, including manual RFI marking, transit plotting, and fringe pattern analysis of the source.
-</td>
-
-<td style="width: 40%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/12610403-bcdf-4bd0-9bfd-d41817f6c46d" style="width: 100%;">
-</td>
-
-
-</tr>
-</table>
-
-
-
-
-Featured below are the demonstration videos of our web tool in action. The first video highlights the tool's capability for conducting remote observations from the Raman Research Institute, located 90 km away from the Gauribidanur Radio Observatory. It also demonstrates the functionality to download collected data and perform minimal data processing. The second video showcases the updated version of the web tool, which now includes features for manual RFI masking and transit plotting, as exemplified through a solar transit observation.
-
-<table style="width: 100%;">
-  <tr>
-    <!-- First Video -->
-    <td style="width: 50%; text-align: center;">
-      <video width="100%" controls>
-        <source src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/e1e52533-297b-4744-b1f5-41eac8e80cee" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div>Video 1</div>
-    </td>
-    <!-- Second Video -->
-    <td style="width: 50%; text-align: center;">
-      <video width="100%" controls>
-        <source src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/31b67e30-f72c-4b32-b0b0-3b8099260d59" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div>Video 2</div>
-    </td>
-  </tr>
-</table>
+ 
 
 ### Publications
 
