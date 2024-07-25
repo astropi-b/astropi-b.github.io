@@ -4,6 +4,8 @@ title:"<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:
 tags: ['Deep Learning','Computer Vision','SDSS-DR18']
 permalink: /research/sg/
 ---
+
+
 <table style="width: 100%;">
 <tr>
 
