@@ -90,8 +90,8 @@ permalink: /projects/
   </div>
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
-    <h3><a href="/research/lpdasimulations/">ExoCluster</a></h3>
-    <p>Brief description of Project Four.</p>
+    <h3><a href="/research/exocluster/">ExoCluster</a></h3>
+    <p>A.</p>
   </div>
   
 </div>
