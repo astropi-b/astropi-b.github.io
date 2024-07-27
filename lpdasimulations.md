@@ -11,7 +11,7 @@ permalink: /research/lpdasimulations/
 This work has been presented as a poster titled "Two Element Broadband Log-Periodic Dipole Antenna Array Radio Interferometry: Exploring the SKA Low Frequency Band
 " The details are as follows:
 
-- **Poster:** [Identifying Potential Habitats Beyond Earth: A Multilayered Statistical Analysis of NASA's Confirmed Exoplanets.](https://ui.adsabs.harvard.edu/abs/2024asi..confP..01D/abstract) (2024.02)
+- **Poster:** [Two Element Broadband Log-Periodic Dipole Antenna Array Radio Interferometry: Exploring the SKA Low Frequency Band](https://ui.adsabs.harvard.edu/abs/2024asi..confP..01D/abstract) (2024.02)
 - **Conference:** 42nd meeting of the Astronomical Society of India (ASI)
 
  
