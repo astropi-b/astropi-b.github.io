@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "<span style=\"font-family: Comic Sans MS, Comic Sans; font-size:32px;\"> Two Element Log Periodic Dipole Antenna Array </span> "
-permalink: /research/ldpasimulations/
+permalink: /research/lpdasimulations/
 --- 
 <iframe src="https://astropi-b.github.io/ASI2024_35.pdf" width="100%" height="1700px"></iframe>
 
