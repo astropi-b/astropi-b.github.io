@@ -91,7 +91,7 @@ permalink: /projects/
   <div class="research-item">
     <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
     <h3><a href="/research/exocluster/">ExoCluster</a></h3>
-    <p>A.</p>
+    <p>A machine learning approach for detecting potential exoplanets in the NASA-confirmed exoplanets dataset. </p>
   </div>
   
 </div>
