@@ -80,7 +80,7 @@ permalink: /projects/
   <div class="research-item">
     <img class="research-image" src="/img/r1_1.png" alt="Project Two">
     <h3><a href="/research/lpdasimulations/">Establishment of L.P.D.A Array at G.R.O</a></h3>
-    <p>Brief description of Project Two.</p>
+    <p>Establishment of an Radio Interferometer : Two Element Log Periodic Dipole Antenna Array at Gauribidanur Radio Observatory</p>
   </div>
 
   <div class="research-item">
