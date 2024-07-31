@@ -23,10 +23,10 @@ With the HPC resources from the Centro de Supercomputación de Galicia (CESGA), 
 <tr>
 
 <td style="width: 50%;"> <!-- Image cell with 40% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/df92c0fe-9668-4366-a0d1-5af24bbda480" alt="LPDA Array" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/7aec7dd8-0a5f-45d3-ac7b-c34292e32cbe" alt="SKAO" style="width: 100%;">
 </td>
 <td valign="middle" style="width: 50%;"> <!-- Text cell with 60% width -->
-<img src="https://github.com/astropi-b/astropi-b.github.io/assets/78492090/df92c0fe-9668-4366-a0d1-5af24bbda480" alt="LPDA Array" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/d316a462-171f-4f75-bce3-671c6b9da4d9" alt="CESGA" style="width: 100%;">
 </td>
 
 </tr>
@@ -35,4 +35,7 @@ With the HPC resources from the Centro de Supercomputación de Galicia (CESGA), 
 
 ***Anumanchi Agastya Sai Ram Likhit***
 
- 
+ ![SKAO_logo]()
+
+![image](https://github.com/user-attachments/assets/d316a462-171f-4f75-bce3-671c6b9da4d9)
+
