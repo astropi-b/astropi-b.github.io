@@ -34,8 +34,3 @@ With the HPC resources from the Centro de Supercomputación de Galicia (CESGA), 
 
 
 ***Anumanchi Agastya Sai Ram Likhit***
-
- ![SKAO_logo]()
-
-![image](https://github.com/user-attachments/assets/d316a462-171f-4f75-bce3-671c6b9da4d9)
-
