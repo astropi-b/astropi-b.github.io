@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  G.L.O.T
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\"> SKAO Science Data Challenge 3b - Inference </span> "
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/sdc3/
 ---
