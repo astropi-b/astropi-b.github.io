@@ -32,6 +32,8 @@ With the HPC resources from the Centro de Supercomputación de Galicia (CESGA), 
 </tr>
 </table>
 
-"<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:28px;\"> Work in Progress </span> "
+<div style="text-align: center;">
+  <span style="font-family: Comic Sans MS, Comic Sans, cursive; font-size:28px;">Work in Progress</span>
+</div>
 
 ***Anumanchi Agastya Sai Ram Likhit***
