@@ -8,7 +8,7 @@ permalink: /research/sdc3/
 <span style="font-family: 'Andale Mono', monospace;"> Aim to infer the reionization properties of the universe from the power spectra of the hydrogen-21cm signal from the Epoch of Reionization corresponding to different redshift ranges.  </span>
 
 
-**Data Details**
+## Data Discription
 The data for the SDC3 Inference challenge will consist of two datasets, for two different EoR reionization models EoR1 and EoR2. 
 
 Power spectra of EoR1 + noise + SKA-Low telescope simulation for 3 (TBC) frequencies ranges, each corresponding to a redshift interval within the possible reionization history. 
