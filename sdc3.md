@@ -5,7 +5,8 @@ tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/sdc3/
 ---
 
-GLOT is Gauribidanur radio observatory Log periodic dipole antenna array Observation Tool.
+Aim to infer the reionization properties of the universe from the power spectra of the hydrogen-21cm signal from the Epoch of Reionization corresponding to different redshift ranges. 
+
 
 <table style="width: 100%;">
 <tr>
