@@ -5,7 +5,9 @@ tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/sdc3/
 ---
 
-Aim to infer the reionization properties of the universe from the power spectra of the hydrogen-21cm signal from the Epoch of Reionization corresponding to different redshift ranges. 
+<span style="font-family: 'Andale Mono', monospace;"> Aim to infer the reionization properties of the universe from the power spectra of the hydrogen-21cm signal from the Epoch of Reionization corresponding to different redshift ranges.  </span>
+
+
 
 
 <table style="width: 100%;">
