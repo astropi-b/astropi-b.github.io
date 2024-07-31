@@ -32,7 +32,7 @@ With the HPC resources from the Centro de Supercomputación de Galicia (CESGA), 
 </tr>
 </table>
 
-<div style="text-align: center; font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 48px;">
+<div style="text-align: center; font-family: 'Lucida Console'; font-size: 48px;">
 <span>Work in Progress</span>
 </div>
 
