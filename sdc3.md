@@ -2,7 +2,7 @@
 layout: page
 title:  G.L.O.T
 tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
-permalink: /research/webtool/
+permalink: /research/sdc3/
 ---
 
 GLOT is Gauribidanur radio observatory Log periodic dipole antenna array Observation Tool.
