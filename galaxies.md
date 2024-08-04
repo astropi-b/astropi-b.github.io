@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size:32px;\"> Score-Based Generative Modeling through Stochastic Differential Equations for Galaxies </span> "
-tags: ['Radio Astronomy','Web Devlopment','Gauribidanur Radio Observatory']
 permalink: /research/galaxies/
 ---
 
