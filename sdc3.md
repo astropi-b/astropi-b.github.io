@@ -9,7 +9,7 @@ permalink: /research/sdc3/
 
 
 ## Data Discription
-The data for the SDC3 Inference challenge will consist of two datasets, for two different EoR reionization models EoR1 and EoR2. 
+The data for the [SDC3 Inference challenge](https://sdc3.skao.int/challenges/inference) will consist of two datasets, for two different EoR reionization models EoR1 and EoR2. 
 
 Power spectra of EoR1 + noise + SKA-Low telescope simulation for 3 (TBC) frequencies ranges, each corresponding to a redshift interval within the possible reionization history. 
 Power spectra of EoR2 + noise + foreground residuals + SKA-Low telescope simulation for 3 (TBC) frequencies, each corresponding to a redshift interval within the possible reionization history. 
