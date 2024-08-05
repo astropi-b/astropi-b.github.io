@@ -15,10 +15,14 @@ tags: ['tag1','tag2']
 
 <span style="font-family: 'Andale Mono', monospace;">If a planet is orbiting a star, we should see the periodic dips in the star’s received flux. The interstellar medium plays an important role, but we were accurately able to detect the planets orbiting the stars (Transit Method). In the same way, we expect some abnormalities (like dips in the light curve) in the data if the Dyson sphere exists.</span>
 
-<gif src="https://github.com/user-attachments/assets/507d8e4f-3886-494b-99e5-366e02896de7" alt="Transit" style="width: 100%;">
+<img src="https://github.com/user-attachments/assets/507d8e4f-3886-494b-99e5-366e02896de7" alt="Transit" style="width: 100%;">
 
  
+<span style="font-family: 'Andale Mono', monospace;">Several studies have been initiated searching for individual Dyson spheres in the optical and IR range, and no potential candidates have been found. Few have initiated searches for the partial Dyson spheres, which are in the process of building Dyson spheres.</span>
 
+<span style="font-family: 'Andale Mono', monospace;">Recent advancements in astronomy and technology have increased the number of telescopes(space and ground). A vast amount of data is collected from various missions like Gaia,2MASS, AllWISE, etc. With the latest data analysis techniques using neural networks and language models apart from traditional statistical analysis, the era paved the way to detect seven potential stars that could have a Dyson sphere.</span>
+
+<span style="font-family: 'Andale Mono', monospace;">The research proposed the following ideology: If a Dyson sphere exists, we expect optical dimming of the host star and waste-heat emission from the absorbing structure. That means the main starlight that is emitted will be obstructed by the Dyson sphere, so it gives a dip in the optical range, and the material the Dyson sphere is made of will emit the light in the Infrared Region due to which we must be able to see the excess flux in the infrared region.</span>
 
 ......
 **2. SMVDU-ALGOS**
