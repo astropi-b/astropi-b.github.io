@@ -16,6 +16,9 @@ tags: ['tag1','tag2']
 
 If a planet is orbiting a star, we should see the periodic dips in the star’s received flux. The interstellar medium plays an important role, but we were accurately able to detect the planets orbiting the stars (Transit Method). In the same way, we expect some abnormalities (like dips in the light curve) in the data if the Dyson sphere exists. </span>
 
+<gif src="" alt="Transit" style="width: 100%;">
+
+![Uploading 1_gf5AQBE6GjvqBP1QZYhAcA.gif…]()
 
 
 ......
