@@ -24,6 +24,22 @@ tags: ['tag1','tag2']
 
 <span style="font-family: 'Andale Mono', monospace;">The research proposed the following ideology: If a Dyson sphere exists, we expect optical dimming of the host star and waste-heat emission from the absorbing structure. That means the main starlight that is emitted will be obstructed by the Dyson sphere, so it gives a dip in the optical range, and the material the Dyson sphere is made of will emit the light in the Infrared Region due to which we must be able to see the excess flux in the infrared region.</span>
 
+<img src="https://github.com/user-attachments/assets/c02ff1d9-2c40-4553-9b90-0d95f608f2b6" alt="Transit" style="width: 100%;">
+
+
+
+<span style="font-family: 'Andale Mono', monospace;">This infrared excess can be caused if the host star is in a nebula environment or has a circumstellar disk. The researchers have carefully eliminated the risk of having a circumstellar disk by removing the sound stars where they mostly encounter a circumstellar disk, and they designed a neural network model to predict whether the star is in a nebula environment. This showcases the latest deployments in the Feld of ML/AL, which play a crucial role in the project.</span>
+
+<img src="https://github.com/user-attachments/assets/00893674-bda1-426a-a1d9-35af01bbff92" alt="Transit" style="width: 100%;">
+
+
+
+<span style="font-family: 'Andale Mono', monospace;">This post is inspired by the recent publication ‘**Project Hephaistos — II — Dyson sphere candidates from Gaia DR3, 2MASS, and WISE**’ by Matías Suazo et al.</span>
+
+<span style="font-family: 'Andale Mono', monospace;">I am grateful to the authors and deeply interested in the research done. This post briefly gives the general audience an idea of the research conducted to find Extraterrestrial Intelligence by SETI.</span>
+
+<span style="font-family: 'Andale Mono', monospace;">Please refer to the paper for more scientific and accurate details [https://arxiv.org/pdf/2405.02927](https://arxiv.org/pdf/2405.02927).</span>
+
 ......
 **2. SMVDU-ALGOS**
 
