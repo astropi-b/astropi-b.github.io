@@ -40,13 +40,6 @@ tags: ['SETI','Aliens','Dyson Spheres']
 
 <span style="font-family: 'Andale Mono', monospace;">Please refer to the paper for more scientific and accurate details [https://arxiv.org/pdf/2405.02927](https://arxiv.org/pdf/2405.02927).</span>
 
-......
-**2. SMVDU-ALGOS**
-
-,,,,
- 
- 
-
 
 ***Anumanchi Agastya Sai Ram Likhit***
  
