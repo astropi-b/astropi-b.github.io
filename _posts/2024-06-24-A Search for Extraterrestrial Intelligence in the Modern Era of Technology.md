@@ -8,7 +8,7 @@ tags: ['tag1','tag2']
 <span style="font-family: 'Andale Mono', monospace;"> Dyson spheres are believed to be megastructures built around a host star that uses energy from the star. Many people think this kind of advanced civilisation exists, and the search for these spheres began around the early 60’s. </span>
 
 <img src="https://github.com/user-attachments/assets/931c8ea2-26aa-4bbb-bdcf-128b30e52c2e" alt="Dyson Sphere" style="width: 100%;">
-![1](https://github.com/user-attachments/assets/931c8ea2-26aa-4bbb-bdcf-128b30e52c2e)
+
 
 
 
