@@ -15,3 +15,4 @@ state-of-the-art data analysis techniques, such as score-based diffusion models 
 </div>
 
 ***Anumanchi Agastya Sai Ram Likhit***
+***Supervisor: Dr. RajibSaha***
