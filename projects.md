@@ -1,138 +1,97 @@
 ---
 layout: page
-title: "My Work in Astronomy and Cosmology"
+title: "<span style=\"font-family: Comic Sans MS, Comic Sans; font-size:32px;\"> My Work in Astronomy and Cosmology </span> "
 permalink: /projects/
 ---
 
 <style>
-/* Overall Page Styling */
-body {
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  text-align: center;
-  font-size: 2.5em;
-  margin-bottom: 20px;
-  color: #333;
-}
-
-/* Grid Styling */
 .research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  margin: 20px;
-  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-/* Card Styling */
 .research-item {
-  background: #ffffff;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
+  margin-bottom: 20px; 
+  border: 1px solid #ddd; 
+  padding: 10px; 
+  border-radius: 8px; 
+  background-color: #f9f9f9; 
+  width: 30%; 
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Animation for transform and shadow */
+  margin-right: 1%; 
+  margin-left: 1%; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Initial shadow */
 }
 
 .research-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px) scale(1.05); /* Move up slightly and scale */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
 }
 
-/* Image Styling */
 .research-image {
-  width: 100%;
-  height: auto;
-  border-bottom: 1px solid #ddd;
+  max-width: 100%; 
+  height: auto; 
+  border-radius: 8px;
 }
 
-/* Content Styling */
-.research-content {
-  padding: 15px;
-  text-align: center;
+@media (max-width: 800px) {
+  .research-item {
+    width: 45%; /* Adjust for smaller screens */
+  }
 }
 
-.research-content h3 {
-  font-size: 1.25em;
-  margin: 10px 0;
-  color: #0073e6;
-}
-
-.research-content h3 a {
-  text-decoration: none;
-  color: inherit;
-}
-
-.research-content h3 a:hover {
-  text-decoration: underline;
-}
-
-.research-content p {
-  font-size: 0.95em;
-  color: #555;
-  margin: 0;
+@media (max-width: 600px) {
+  .research-item {
+    width: 100%; /* Full width on very small screens */
+  }
 }
 </style>
 
-<h1>My Work in Astronomy and Cosmology</h1>
+
+
 
 <div class="research-grid">
   <!-- Research items -->
-  <div class="research-item">
+   <div class="research-item">
     <img class="research-image" src="/img/sdc3b.jpeg" alt="SDC3">
-    <div class="research-content">
-      <h3><a href="/research/sdc3/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
-      <p>Collaborating with the SKAO team and CESGA to infer Universe properties during the epoch of reionization.</p>
-    </div>
+    <h3><a href="/research/sdc3/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
+    <p> In collaboration with the SKAO team and Centro de Supercomputación de Galicia (CESGA), we are using modern data analysis techniques to infer about the properties of Universe at the epoch of reionization.</p>
   </div>
-
-  <div class="research-item">
+  
+   <div class="research-item">
     <img class="research-image" src="/img/galaxys.jpg" alt="galaxies">
-    <div class="research-content">
-      <h3><a href="/research/galaxies/">Score-Based Generative Modeling for Galaxies</a></h3>
-      <p>Developing AI models for galaxy datasets to solve astronomical and cosmological problems.</p>
-    </div>
+    <h3><a href="/research/galaxies/"> Score-Based Generative Modeling through Stochastic Differential Equations for Galaxies </a></h3>
+    <p> Aim to devlop an AI model for galaxy Datasets which solves various astronomical and cosmological problems.</p>
   </div>
 
   <div class="research-item">
     <img class="research-image" src="/img/cmb.jpg" alt="CMB B Mode">
-    <div class="research-content">
-      <h3><a href="/research/mscmb/">Detecting Primordial Gravitational Waves from CMB B-Mode</a></h3>
-      <p>Master's project focused on developing ML models for detecting the CMB's primordial B-mode signal.</p>
-    </div>
+    <h3><a href="/research/mscmb/"> A Search for Primordial Gravitational Waves using ML and AI on CMB B mode</a></h3>
+    <p>  This is my Masters Project, where I am developing a working model for detecting the cosmic microwave background's primordial B mode component from planned future observations. </p>
   </div>
-
+  
   <div class="research-item">
     <img class="research-image" src="/img/r1_2.png" alt="G.L.O.T">
-    <div class="research-content">
-      <h3><a href="/research/webtool/">Gauribidanur Radio Observatory LPDA Tool (GLOT)</a></h3>
-      <p>Innovative web tool for observations using the two-element LPDA array at Gauribidanur.</p>
-    </div>
+    <h3><a href="/research/webtool/">Gauribidanur Radio Observatory LPDA array Observational Tool (GLOT)</a></h3>
+    <p>An innovative Web Tool for Radio Astronomy Observations using the two element log periodic dipole antenna array setup at Gauribidanur Radio Observatory.</p>
   </div>
 
   <div class="research-item">
-    <img class="research-image" src="/img/r1_1.png" alt="LPDA Array">
-    <div class="research-content">
-      <h3><a href="/research/lpdasimulations/">Establishment of LPDA Array at Gauribidanur</a></h3>
-      <p>Development of a two-element LPDA interferometer for SKA-Low frequency observations.</p>
-    </div>
+    <img class="research-image" src="/img/r1_1.png" alt="Project Two">
+    <h3><a href="/research/lpdasimulations/">Establishment of L.P.D.A Array at G.R.O</a></h3>
+    <p>Establishment of a Radio Interferometer : Two Element Log Periodic Dipole Antenna (SKA-Low Range) Array at Gauribidanur Radio Observatory.</p>
   </div>
 
   <div class="research-item">
-    <img class="research-image" src="/img/l3.png" alt="Star Galaxy Classification">
-    <div class="research-content">
-      <h3><a href="/research/sg/">Optimizing Star-Galaxy Classification</a></h3>
-      <p>Improving classification accuracy in astronomical datasets.</p>
-    </div>
+    <img class="research-image" src="/img/l3.png" alt="Project Three">
+    <h3><a href="/research/sg/">Optimizing Star Galaxy Classification</a></h3>
+    <p>We improve the Star Galaxy Classification Accuracies.</p>
   </div>
-
   <div class="research-item">
-    <img class="research-image" src="/img/avatar-icon.png" alt="ExoCluster">
-    <div class="research-content">
-      <h3><a href="/research/exocluster/">ExoCluster</a></h3>
-      <p>Using ML to detect potential exoplanets in NASA-confirmed datasets.</p>
-    </div>
+    <img class="research-image" src="/img/avatar-icon.png" alt="Project Two">
+    <h3><a href="/research/exocluster/">ExoCluster</a></h3>
+    <p>A machine learning approach for detecting potential exoplanets in the NASA-confirmed exoplanets dataset. </p>
   </div>
+  
 </div>
