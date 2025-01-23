@@ -13,7 +13,7 @@ Abhishek R,<b>Anumanchi Agastya Sai Ram Likhit</b>,Katta Naveen, Roshan Kumar Do
 ## 2025
 
 <span style="display: inline-block; width:150px; line-height: 25px; color:white; font-family: Calibri; background-color:#00CED1; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL PAPER</b></span>
-<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek, Prabu T. <b>*Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Test LPDA Array at Gauribidanur Radio Observatory*</b>, Accepted to publish Journal of Astronomy and Astrophysics (<a target="_blank" href="https://doi.org/10.48550/arXiv.2501.13090">Paper</a>)
+<b>Anumanchi Agastya Sai Ram Likhit</b>, Katta Naveen, Arul Pandian B, R Abhishek, Prabu T. <b>*Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Low frequency Beamforming Test Bed LPDA Array at Gauribidanur Radio Observatory*</b>, Accepted to publish Journal of Astronomy and Astrophysics (<a target="_blank" href="https://doi.org/10.48550/arXiv.2501.13090">Paper</a>)
 
 
 ## 2024
