@@ -7,7 +7,39 @@ title: "<span style=\"font-family: Comic Sans MS, Comic Sans, cursive; font-size
 
 I'm Anumanchi Agastya Sai Ram Likhit, and I am currently in my final year of my Integrated Masters (BS-MS) Degree in Physics with a minor in Data Science and a Master Thesis specialization in Observational Cosmology at [Indian Institute of Science Education  and Research Bhopal (IISER-B) , India](https://www.iiserb.ac.in/).
 
-I am interested in solving astronomical and cosmological problems by using the latest advancements in machine learn- ing, artificial intelligence, and modern technology. My passion lies in observational astronomy and cosmology, where I aim to develop advanced observational data acquisition systems and data analysis pipelines related to astronomy and cosmology for a better understanding of the universe at different scales.
+---
+
+## **Research Interests**
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center;">
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Observational Cosmology</strong>
+</div>
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Deep Learning</strong>
+</div>
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Radio Astronomy</strong>
+</div>
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Early Galaxy Population</strong>
+</div>
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Astronomical Instrumentation</strong>
+</div>
+
+<div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
+<strong>Exoplanets</strong>
+</div>
+
+</div>
+
+---
 
 ## A Thought-Provoking Quote
 
