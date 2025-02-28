@@ -14,7 +14,7 @@ I'm Anumanchi Agastya Sai Ram Likhit, and I am currently in my final year of my 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center;">
 
 <div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
-<strong>Observational Cosmology</strong>
+<strong>Observational Cosmology & Astrophysics</strong>
 </div>
 
 <div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;">
