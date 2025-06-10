@@ -54,12 +54,6 @@ permalink: /projects/
 <div class="research-grid">
   <!-- Research items -->
    <div class="research-item">
-    <img class="research-image" src="/img/sdc3b.jpeg" alt="SDC3">
-    <h3><a href="/research/sdc3/">Science Data Challenge (SDC) 3b - Inference by SKAO</a></h3>
-    <p> In collaboration with the SKAO team and Centro de Supercomputación de Galicia (CESGA), we are using modern data analysis techniques to infer about the properties of Universe at the epoch of reionization.</p>
-  </div>
-  
-   <div class="research-item">
     <img class="research-image" src="/img/galaxys.jpg" alt="galaxies">
     <h3><a href="/research/galaxies/"> Score-Based Generative Modeling through Stochastic Differential Equations for Galaxies </a></h3>
     <p> Aim to devlop an AI model for galaxy Datasets which solves various astronomical and cosmological problems.</p>
